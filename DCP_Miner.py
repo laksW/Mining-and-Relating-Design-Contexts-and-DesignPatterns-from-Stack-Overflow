@@ -122,14 +122,13 @@ def K_fold_SVC_classify_evaluate_and_print_classificationReprot(X, Y):
 
 
 def main():
-    path_dir = os.path.dirname(
-        '/Users/laks/Desktop/Mash-noSync/NewDownload/SO/DP_AP_For_QualityAtrributes/ContextMining/DP/EMSE/Exp/ADP-DC Miner/')
+    path_dir = os.path.dirname('filepath')
 
-    read_miner = os.path.join(path_dir, 'EMSE_dataset4_for_miner_3.csv')
-    read_classifier_data = os.path.join(path_dir, 'EMSE_dataset4_for_classifier.csv')
+    read_miner = os.path.join(path_dir, 'More_SO_data.csv')
+    read_classifier_data = os.path.join(path_dir, 'Classifier_data.csv')
 
     #Load the trained RL model with Collocations
-    RL_model = Word2Vec.load('/Users/laks/Desktop/Mash-noSync/NewDownload/SO/DP_AP_For_QualityAtrributes/ContextMining/DP/DataFiles/V5_1/w2v_allADP.model')
+    RL_model = Word2Vec.load('RL.model')
 
 
     '''Supervised Learning'''
