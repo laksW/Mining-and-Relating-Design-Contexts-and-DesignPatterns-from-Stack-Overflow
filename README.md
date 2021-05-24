@@ -17,6 +17,9 @@ You can use the already trained RL-Model on DPC Miner to mine for more data usin
 - Get the mining Prediction
 
 ###### Train both RL_Model and DPC_Miner
+In RL_Model_Training.py
+- Place the file you want to train the RL_Model as "read_file_raw". - RL_Model will learn text features from this file
+
 
 
 ## Data Files
