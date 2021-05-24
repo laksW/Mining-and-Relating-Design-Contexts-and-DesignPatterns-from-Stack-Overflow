@@ -1,0 +1,1486 @@
+﻿Post ID,Confirmed DesignTag1,Confirmed DesignTag2,Confirmed DesignTag3,App Technology,App Domain,App Size,Platform Context,Organizational Context,Technical Context,Quality attributes,Other 1,Other 2,Other 3
+55972746,MVC,,,Web Application,LMS,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+48710606,REST,,,Distributed Systems,NONE,NONE,Network context,NONE,NONE,NONE,Hardware context,NONE,NONE
+17433046,REST,,,NONE,NONE,NONE,Databases,NONE,Testing standards,performance,NONE,NONE,NONE
+12331693,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,performance,security,NONE,NONE
+46171533,microservices,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,reliability,NONE,NONE
+24226529,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,Network context,NONE,NONE
+4244437,SINGLETON,MVC,,NONE,NONE,NONE,Databases,NONE,Quality standards,modifiability,Development methodology,NONE,NONE
+15302901,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+9774067,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+30126720,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+10213307,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+39922562,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+8357464,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+56138840,activerecord,,,Distributed Systems,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+13555242,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8148702,soa,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,performance,Network context,NONE
+41039280,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+20172357,publish-subscribe,EDA,,NONE,NONE,NONE,Databases,NONE,Quality standards,modifiability,NONE,NONE,NONE
+44696108,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+36721212,REST,,,Web Application,NONE,NONE,NONE,NONE,Testing standards/ Methods,security,NONE,NONE,NONE
+27737290,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,availability,NONE,NONE,NONE
+10105093,REST,SOA,,Information Systems,Financial Systems,NONE,NONE,Development schedule,Development methodology,security,NONE,NONE,NONE
+33883088,decorator,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+43530030,REST,,,Embedded Systems,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+38464606,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+37589737,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+14360122,p2p,,,Information Systems,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+41308883,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,Standalone Systems,NONE,NONE
+39686227,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+54020783,decorator,,,NONE,NONE,NONE,NONE,NONE,Development methodology,availability,NONE,NONE,NONE
+33348620,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,Testing standards/ Methods,performance,Quality standards,NONE,NONE
+12661110,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+39340609,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+34139090,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+21132728,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+8864240,client server,,,Web Application,NONE,NONE,Operating Systems,NONE,NONE,security,NONE,NONE,NONE
+49216909,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+12060965,MVC,,,Web Application,Financial Systems,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+49612067,activerecord,,,NONE,NONE,NONE,Databases,NONE,Testing standards/ Methods,modifiability,security,interoperability,NONE
+11695109,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,availability,NONE,NONE,NONE
+3663900,SINGLETON,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+27314907,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+28628822,activerecord,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+27752928,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+17642224,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+53497899,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+4395963,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13772177,ddd,,,NONE,Financial Systems,Small,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+33453269,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+34218135,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+57240164,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+8703263,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+3177088,MVC,SINGLETON,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+18351134,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+6068932,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+24438769,REST,,,Embedded Systems,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+47856019,publish-subscribe,,,NONE,Transport Systems,NONE,Network context,NONE,Quality standards,performance,scalability,NONE,NONE
+6387933,soa,ddd,,Web Application,HR System,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+11821453,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+6133254,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+43834191,REST,,,Web Application,Entertainment Systems,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+20644672,activerecord,,,NONE,NONE,Small,Databases,NONE,NONE,availability,NONE,NONE,NONE
+7856827,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+13821028,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+10388235,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,safety,NONE,NONE
+34700593,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+21141746,client server,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+10221273,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+23456736,REST,,,Web Application,Financial Systems,NONE,NONE,NONE,NONE,security,Mobile Application,NONE,NONE
+19624859,activerecord,,,NONE,NONE,NONE,Databases,NONE,Development methodology,modifiability,NONE,NONE,NONE
+34303982,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+16734363,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+5361918,p2p,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+3852080,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,Web Application,NONE,NONE
+34640611,microservices,,,Distributed Systems,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+43956037,soa,REST,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+14710068,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35118390,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+47414830,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+27551109,mvvm,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+54244210,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+24544707,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,security,NONE,NONE
+8602387,DTO,MULTI-TIER,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+18434314,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+6903515,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+28879185,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+28497835,MVC,,,Web Application,Entertainment Systems,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+33434489,SINGLETON,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+36431145,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+4981045,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+11943933,activerecord,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+25152900,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+7988447,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+1790020,client server,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+4429684,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+11908163,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+40854777,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+25624368,REST,MVC,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+34272521,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+34827797,REST,MVC,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+5083585,p2p,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+2921553,soa,,,Web Application,NONE,NONE,NONE,NONE,NONE,scalability,security,NONE,NONE
+48131440,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+11170843,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+34993058,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+48063078,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+1978035,soa,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+33894403,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+24931742,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+56397947,REST,,,Web Application,NONE,NONE,Databases,NONE,quality standards,security,NONE,NONE,NONE
+50431706,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+42491958,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17065304,dao,,,NONE,NONE,NONE,Databases,NONE,Development methodology,modifiability,NONE,NONE,NONE
+20547669,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+32295827,DTO,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+7065403,facade,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+9277074,SINGLETON,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+20360505,REST,,,Mobile Application,NONE,Small,NONE,NONE,NONE,security,Web Application,NONE,NONE
+43539614,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,Mobile Application,NONE,NONE
+45158563,p2p,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+36913718,strategy-pattern,abstract factory,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,interoperability,NONE,NONE
+19439843,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+28536522,INTERCEPTOR,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+14055260,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+34428046,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+1940654,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+41161769,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,security,performance,NONE,NONE
+40660163,ddd,microservices,,Distributed Systems,NONE,NONE,NONE,NONE,NONE,functionality,modifiability,NONE,NONE
+45525753,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+8476450,ddd,,,NONE,Health Related Systems,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+39161175,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+40674685,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+42559380,dao,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+38618531,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+45394540,SINGLETON,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+45092661,REST,,,NONE,Transport Systems,NONE,Databases,NONE,NONE,performance,scalability,NONE,NONE
+19773753,DTO,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+10080028,soa,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+25611167,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+47252277,REST,,,Mobile Application,NONE,NONE,databases,NONE,NONE,security,NONE,NONE,NONE
+53710288,REST,,,Web Application,NONE,Large,Databases,NONE,NONE,performance,security,NONE,NONE
+41693536,REST,,,NONE,NONE,NONE,Databases,NONE,quality standards,security,NONE,NONE,NONE
+37640080,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+34461967,soa,,,NONE,NONE,Large,Databases,NONE,NONE,maintainability,NONE,NONE,NONE
+47493648,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,scalability,NONE,NONE
+13038646,MVC,,,Web Application,NONE,NONE,Operating Systems,NONE,NONE,security,NONE,NONE,NONE
+45146319,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+29970527,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+13262631,mvvm,,,NONE,NONE,NONE,Hardware context,NONE,NONE,modifiability,NONE,NONE,NONE
+1752632,MVC,,,NONE,NONE,NONE,NONE,NONE,Testing standards/ Methods,security,NONE,NONE,NONE
+6822255,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+54646337,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29957080,REST,MVP,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+11553201,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+6433480,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+51618042,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,Mobile Application,NONE,NONE
+34355595,REST,MVC,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+51582565,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+7655312,activerecord,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+33006570,REST,,,Web Application,Entertainment Systems,NONE,NONE,NONE,Testing standards/ Methods,NONE,NONE,NONE,NONE
+31670099,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,Quality standards,modifiability,NONE,NONE,NONE
+52924247,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+13989320,SINGLETON,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+23724358,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+24220884,REST,,,Web Application,NONE,NONE,databases,NONE,quality standards,security,NONE,NONE,NONE
+37639209,REST,CLIENT SERVER,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+1033779,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+33728813,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+2010621,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+37702372,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,scalability,performance,NONE,NONE
+8702135,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+16496471,p2p,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+11216484,REST,,,NONE,NONE,NONE,Databases,NONE,quality standards,performance,scalability,NONE,NONE
+32915964,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+6088494,ITERATOR,,,NONE,NONE,NONE,NONE,NONE,Development methodology,modifiability,quality standards,NONE,NONE
+6197691,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,performance,Web Application,NONE,NONE
+1224450,strategy-pattern,,,NONE,NONE,NONE,Databases,NONE,Development methodology,modifiability,NONE,NONE,NONE
+34133533,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+1237241,MVC,,,Web Application,NONE,NONE,Databases,Stakeholder context,NONE,security,NONE,NONE,NONE
+5826210,activerecord,,,NONE,NONE,NONE,Databases,NONE,quality standards,performance,NONE,NONE,NONE
+17286333,REST,MVC,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+7261490,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,modifiability,security,NONE,NONE
+32876844,REST,,,Mobile Application,prototype,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+17446822,client server,,,Web Application,prototype,Large,Network context,NONE,NONE,performance,NONE,NONE,NONE
+9333963,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8459296,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+15390727,mvvm,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,quality standards,NONE,NONE
+31931895,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,NONE,security,safety,NONE,NONE
+55601089,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+6821238,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+46546626,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+4088586,SINGLETON,,,Web Application,NONE,NONE,NONE,NONE,Testing standards/ Methods,maintainability,NONE,NONE,NONE
+24329007,publish-subscribe,,,NONE,NONE,NONE,Hardware context,NONE,NONE,performance,NONE,NONE,NONE
+26197021,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+31462929,ACTIVERECORD,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,modifiability,NONE,NONE
+7951313,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,Web Application,NONE,NONE
+41030778,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+45607999,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+23931093,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+41484495,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+45661556,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+18015999,MVC,observer pattern,,Web Application,NONE,Small,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+53376129,REST,,,NONE,NONE,NONE,Hardware context,NONE,NONE,security,NONE,NONE,NONE
+35289988,microservices,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,quality standards,NONE,NONE
+44360649,ddd,microservices,REST,NONE,Financial Systems,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+31742485,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,maintainability,NONE,NONE
+35310342,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,security,performance,NONE,NONE
+29924248,microservices,,,Web Application,NONE,NONE,Network context,Financial Factors,NONE,performance,NONE,NONE,NONE
+25763428,p2p,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+44622904,no,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,,,
+2095169,REST,,,NONE,NONE,NONE,NONE,Stakeholder context,Development methodology,security,NONE,NONE,NONE
+12265608,REST,,,Web Application,ERP Systems,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+38885288,decorator,,,NONE,Entertainment Systems,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+35488360,REST,,,NONE,NONE,NONE,Databases,NONE,quality standards,performance,NONE,NONE,NONE
+38627553,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+7610591,SINGLETON,,,Information Systems,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+16426112,ddd,lazy-loading,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+22666009,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+33324522,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+13216304,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+37822004,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+26777083,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+36244768,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+7664324,INVERSION-OF-CONTROL,MVC,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+29117113,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+44862419,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+24376539,multi-tier,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+1176457,p2p,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+1519855,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+10972803,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+56162407,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+16747087,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+57490612,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3262909,P2P,,,Web Application,Entertainment Systems,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+45462271,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+27123182,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+57310575,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+8804700,identity-map,SINGLETON,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+47960925,mvvm,,,Web Application,NONE,NONE,NONE,NONE,NONE,usability,NONE,NONE,NONE
+8791902,multi-tier,,,Web Application,NONE,NONE,Hardware context,NONE,NONE,performance,security,NONE,NONE
+48575449,ddd,REST,FACTORY METHOD,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+5628666,client server,,,Mobile Application,NONE,NONE,Network context,NONE,NONE,performance,Databases,NONE,NONE
+13735842,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+56299298,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+27991528,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,Web Application,NONE,NONE
+32791347,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+4076443,SINGLETON,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+39794381,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+1949137,REST,,,Web Application,Financial Systems,NONE,Databases,NONE,NONE,scalability,performance,NONE,NONE
+770978,client server,,,Web Application,Entertainment Systems,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+15922531,REST,MVC,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+34641681,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+1551648,SINGLETON,connection pooling,,Web Application,NONE,NONE,Databases,NONE,NONE,maintainability,performance,security,NONE
+7171023,reposItory pattern,ddd,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,modifiability,NONE,NONE
+9719389,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+44665324,REST,,,mobile Application,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+42540694,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+44687892,microservices,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,performance,NONE,NONE
+52366559,microservices,,,Web Application,NONE,NONE,Hardware context,NONE,Development methodology,modifiability,Databases,NONE,NONE
+34297994,ddd,,,NONE,Financial Systems,NONE,Databases,Stakeholder context,NONE,NONE,NONE,NONE,NONE
+9828521,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+43378986,microservices,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,Web Application,NONE,NONE
+2899924,p2p,,,Web Application,NONE,NONE,Network context,NONE,NONE,performance,Distributed Systems,NONE,NONE
+7410040,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+43567732,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,availability,performance,NONE,NONE
+4684075,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,availability,NONE,NONE,NONE
+10646427,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,mobile Application,NONE,NONE
+21489239,MVC,,,NONE,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+47757453,MVC,,,Web Application,NONE,Small,NONE,NONE,NONE,security,NONE,NONE,NONE
+52808505,REST,,,Web Application,NONE,NONE,Network context,NONE,Development methodology,NONE,NONE,NONE,NONE
+31177257,publish-subscribe,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+38397672,microservices,,,NONE,Entertainment Systems,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+9170066,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+4973454,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+53203091,REST,,,Distributed Systems,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+4602231,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+38639424,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+38480000,microservices,,,Web Application,NONE,NONE,Development Systems,NONE,NONE,performance,NONE,NONE,NONE
+45386765,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+21844295,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+46411649,ddd,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+19560113,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+29323201,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33676355,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+32217639,microservices,,,Web Application,Financial Systems,Large,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+3196819,soa,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+5406394,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+41080253,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+12579611,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+12729710,REST,,,Web Application,NONE,Small,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+49355572,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+35526970,p2p,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+54304646,REST,,,NONE,NONE,Small,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+53377422,client server,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+31369913,client server,,,NONE,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+5735309,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23741625,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,scalability,maintainability,NONE,NONE
+52906454,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8147490,n-tier,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+42842575,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+8060742,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+2112022,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+30730964,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+42357798,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+6411015,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+31120832,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+23613310,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+9870656,SINGLETON,,,Mobile Application,Entertainment Systems,Small,Hardware context,NONE,NONE,NONE,NONE,NONE,NONE
+32156712,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+39651042,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+4657210,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+20124399,dao,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+57278723,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+24885753,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+47880712,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+55346732,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+9321226,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+44883842,client server,,,NONE,NONE,NONE,Operating Systems,NONE,NONE,performance,Network context,NONE,NONE
+4879356,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,maintainability,NONE,NONE,NONE
+24940566,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+41640621,microservices,,,NONE,NONE,NONE,Databases,NONE,Development methodology,maintainability,performance,NONE,NONE
+2408075,REST,,,Web Application,Financial Systems,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+1851975,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+33391866,SINGLETON,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+50062926,ddd,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+23528706,ddd,,,Web Application,NONE,NONE,NONE,NONE,NONE,testability,NONE,NONE,NONE
+2222994,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+3384477,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33926707,microservices,,,NONE,NONE,NONE,NONE,NONE,Development methodology,functionality,NONE,NONE,NONE
+303278,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+43021285,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+37025760,REST,,,Web Application,NONE,NONE,Network context,NONE,Development methodology,security,NONE,NONE,NONE
+18220589,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+50997058,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+50846780,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,availability,NONE,NONE,NONE
+37452647,REST,,,Web Application,NONE,Small,NONE,NONE,NONE,security,NONE,NONE,NONE
+51227737,microservices,,,Distributed Systems,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+29153903,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+28514062,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+46329833,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+51143213,microservices,,,Web Application,NONE,Small,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+25450380,ddd,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+14041496,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+31031865,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+34179588,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+11361059,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+37515532,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+26523694,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+53383868,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+45307963,mvvm,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+475833,MVC,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+4998578,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+42541386,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+15338570,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+7529670,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+46141176,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+28793193,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+5155110,wcf,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+54888923,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+51563863,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23777862,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+42720651,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+13202224,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+52492498,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13709209,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+26937791,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+39601492,microservices,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+39103289,REST,,,web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+10090796,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35091939,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+53733994,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8607625,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+42482962,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+26242653,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+32631630,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+42030847,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+57394908,microservices,,,NONE,NONE,NONE,Databases,NONE,Development methodology,functionality,NONE,NONE,NONE
+39601424,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+21782118,REST,,,NONE,NONE,NONE,Databases,NONE,development methodology,Security,NONE,NONE,NONE
+49577347,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+50628676,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+39742117,microservices,,,NONE,prototype,NONE,Databases,NONE,Development methodology,Security,NONE,NONE,NONE
+56921233,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+49767182,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+1825844,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+46640888,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+3513804,client server,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+3295931,REST,,,Web Application,NONE,Small,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+17296940,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+24872440,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+8046940,REST,,,NONE,NONE,NONE,databases,NONE,NONE,security,NONE,NONE,NONE
+10919801,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,Development methodology,NONE,NONE
+55093448,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35494826,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+12086041,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+30352568,ddd,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+12433646,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+7581170,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Development methodology,safety,Web Application,Quality standards,security
+32972811,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3845951,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+11072403,mvvm,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+32387295,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+11394640,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+6677893,REST,,,Web Application,Financial Systems,NONE,Databases,NONE,Quality standards,performance,scalability,NONE,NONE
+2439306,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+11751201,MVC,REST,,web Application,NONE,NONE,Databases,NONE,Testing standards/ Methods,NONE,NONE,NONE,NONE
+56050069,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+44782947,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33694788,dao,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+5953060,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,safety,NONE,NONE,NONE
+43972841,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+33883560,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,safety,NONE,NONE,NONE
+5120768,FACTORY METHOD,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+39005387,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,safety,functionality,NONE,NONE
+38444603,MVP,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+30198456,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+43966843,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+1148915,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+14046269,client server,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+8599005,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,safety,NONE,NONE,NONE
+36285501,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+49783521,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,safety,NONE,NONE,NONE
+20226818,mvvm,,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+51036481,mvvm,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,functionality,NONE,NONE
+31564058,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+13131144,inversion-of-control,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+6811782,abstract factory,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+32015598,activerecord,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+21611203,REST,,,NONE,NONE,NONE,Databases,NONE,Testing standards/ Methods,safety,NONE,NONE,NONE
+29166342,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17863259,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+56804075,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+36845804,mvvm,,,NONE,NONE,NONE,Databases,NONE,NONE,functionality,NONE,NONE,NONE
+21028395,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+22053414,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+17279416,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+49301034,MVC,,,NONE,NONE,NONE,NONE,NONE,NONE,safety,NONE,NONE,NONE
+48512570,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+46643268,microservices,,,NONE,NONE,NONE,Databases,NONE,Quality standards,availability,NONE,NONE,NONE
+29447737,ABSTRACT FACTORY,,,NONE,Entertainment Systems,NONE,NONE,NONE,Development methodology,modifiability,NONE,NONE,NONE
+18984675,DTO,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,lazy-loading,NONE,NONE
+9951396,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+38370567,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+53086837,microservices,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+44730273,REST,,,NONE,NONE,NONE,Databases,NONE,Testing standards/ Methods,safety,NONE,NONE,NONE
+40560421,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,maintainability,NONE,NONE
+3815818,mvvm,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+26373156,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,safety,NONE,NONE,NONE
+36007176,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+53921958,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,safety,NONE,NONE,NONE
+26928822,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13852295,REST,,,NONE,NONE,NONE,Development Systems,NONE,NONE,NONE,NONE,NONE,NONE
+15589316,ddd,,,NONE,NONE,NONE,NONE,NONE,Development methodology,security,performance,NONE,NONE
+42619138,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+53863069,ddd,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+36495240,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+5606016,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33097782,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+33054172,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+18023538,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+27771055,MVC,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+12769620,soa,,,NONE,NONE,Small,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+14539617,client server,,,NONE,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+3445296,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+37756314,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+36104317,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+32554032,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+1111385,MVC,,,NONE,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+33125508,microservices,,,NONE,NONE,NONE,Databases,NONE,Quality standards,availability,functionality,NONE,NONE
+27007353,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+51722841,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+19777050,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+16005831,client server,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+37434284,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+31859987,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+20048178,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+12476773,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,safety,NONE,NONE,NONE
+15220733,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+21004740,client server,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+3031514,client server,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,performance,NONE,NONE
+39733051,inversion-of-control,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+16948215,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+10406310,REST,,,Web Application,NONE,NONE,Development Systems,NONE,Quality standards,performance,NONE,NONE,NONE
+57525528,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33384636,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+45144106,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+2001773,REST,,,Mobile Application,NONE,NONE,Network context,NONE,Development methodology,NONE,NONE,NONE,NONE
+8793453,facade,SINGLETON,,Mobile Application,NONE,NONE,Operating Systems,NONE,Development methodology,performance,Databases,NONE,NONE
+49226256,client server,,,Distributed Systems,NONE,Small,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+14970421,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+4128645,mvvm,,,NONE,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+35889410,mvvm,,,NONE,NONE,NONE,NONE,NONE,NONE,availability,NONE,NONE,NONE
+6068376,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+32460141,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+2204140,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+20683529,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17658533,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29800810,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+7858583,soa,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,scalability,security,performance,NONE
+38527458,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+2785614,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+48894441,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+56901959,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,functionality,NONE,NONE,NONE
+8708849,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,safety,NONE,NONE,NONE
+49145490,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17064179,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+56526434,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+1408444,soa,,,Web Application,Financial Systems,NONE,Development Systems,NONE,Quality standards,performance,NONE,NONE,NONE
+33585897,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23995361,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+12336519,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33119379,ddd,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+9297897,MVC,,,Mobile Application,NONE,NONE,Databases,Stakeholder context,NONE,performance,NONE,NONE,NONE
+55988676,MVC,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+47809479,mvvm,,,Information Systems,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+48556866,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+40328588,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+18765932,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,safety,NONE,NONE,NONE
+17924506,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+27130642,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,safety,NONE,NONE,NONE
+47789062,REST,,,web Application,NONE,NONE,Databases,NONE,Quality standards,safety,NONE,NONE,NONE
+9587186,REST,,,Mobile Application,Entertainment Systems,NONE,Development Systems,NONE,Quality standards,performance,NONE,NONE,NONE
+35359291,MVC,,,Web Application,NONE,NONE,Development Systems,NONE,Quality standards,performance,NONE,NONE,NONE
+22683589,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+31620810,REST,,,Web Application,NONE,NONE,Development Systems,NONE,Development methodology,safety,NONE,NONE,NONE
+15133494,client server,,,NONE,NONE,NONE,Network context,NONE,Development methodology,performance,NONE,NONE,NONE
+845086,client server,,,NONE,NONE,Small,Network context,NONE,Development methodology,performance,NONE,NONE,NONE
+39402018,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+48721348,interceptor,,,NONE,NONE,NONE,NONE,NONE,Development methodology,functionality,functionality,NONE,NONE
+16566210,n-tier,,,NONE,NONE,NONE,NONE,NONE,Development methodology,modifiability,NONE,NONE,NONE
+20635995,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,safety,NONE,NONE,NONE
+33365123,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+43975122,REST,,,Web Application,NONE,NONE,Development Systems,NONE,Quality standards,performance,NONE,NONE,NONE
+42950462,ddd,,,NONE,NONE,NONE,Development Systems,NONE,Development methodology,NONE,NONE,NONE,NONE
+29129247,client server,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+38284925,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+14043397,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+42068911,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23945037,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+392806,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+40779369,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+57298952,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+12511128,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,safety,NONE,NONE,NONE
+1257085,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+9647951,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+46919784,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+28464308,mvvm,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,safety,NONE,NONE,NONE
+10383077,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+56047755,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,maintainability,performance,NONE,NONE
+16912939,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+42711769,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+56523399,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+11138209,mvvm,,,NONE,NONE,NONE,NONE,NONE,Development methodology,availability,NONE,NONE,NONE
+28767707,microservices,,,Distributed Systems,NONE,NONE,Development Systems,NONE,Quality standards,maintainability,NONE,NONE,NONE
+5996458,soa,,,Web Application,NONE,NONE,Development Systems,NONE,Quality standards,security,NONE,NONE,NONE
+52736970,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+54747132,microservices,REST,,NONE,NONE,NONE,Databases,NONE,Development methodology,modifiability,NONE,NONE,NONE
+54379541,microservices,,,NONE,NONE,NONE,NONE,Development schedule,NONE,security,modifiability,NONE,NONE
+2154348,dao,,,Web Application,Financial Systems,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+4547738,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+12852371,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+30989147,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+19291843,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+12780475,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+15442358,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+34450732,microservices,,,Distributed Systems,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+2740916,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,testability,NONE,NONE,NONE
+13510376,MVC,,,Web Application,NONE,NONE,Databases,Stakeholder context,quality standards,security,NONE,NONE,NONE
+49789342,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,safety,NONE,NONE,NONE
+37451279,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3763221,repository pattern,,,NONE,NONE,NONE,Databases,NONE,Quality standards,safety,NONE,NONE,NONE
+1763440,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,modifiability,NONE,NONE
+8515166,ddd,n-layer,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+7537206,MVC,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+57296970,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+10883992,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+10956989,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+14613584,client server,,,NONE,NONE,NONE,Hardware context,NONE,NONE,NONE,NONE,NONE,NONE
+2622693,client server,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+35482972,client server,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+31738947,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+56790523,microservices,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+12843801,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+35531784,microservices,,,Distributed Systems,NONE,NONE,NONE,NONE,Quality standards,availability,NONE,NONE,NONE
+49629107,soap,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+44613932,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+57029275,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+56961276,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35381163,microservices,,,NONE,NONE,NONE,NONE,NONE,Quality standards,safety,NONE,NONE,NONE
+52643912,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+1557040,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+18749711,Builder pattern,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+16367082,client server,,,NONE,NONE,NONE,Network context,NONE,NONE,modifiability,security,NONE,NONE
+36752148,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+41970017,client server,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+3788771,n-tier,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+32540610,soa,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+52786836,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+7502618,client server,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+50703449,REST,,,Mobile Application,NONE,NONE,Development Systems,NONE,Quality standards,security,NONE,NONE,NONE
+51887068,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+11325170,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+44999015,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+4386791,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+11770051,client server,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+24922658,mvvm,,,NONE,Transport Systems,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+5734212,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+8521354,ddd,,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+1341394,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+6164384,facade,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+3795838,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,functionality,NONE,NONE,NONE
+27252064,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+9254862,mvvm,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+21856554,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+48277437,microservices,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+29166708,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+37054897,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+50781347,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+51583000,ddd,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+42177825,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+35583390,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+9551080,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+15362302,client server,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+56789080,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+42320756,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+57074805,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+24651295,activerecord,,,Web Application,noNE,NONE,Databases,Development schedule,Quality standards,performance,NONE,NONE,NONE
+8404785,soa,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+32742134,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23398622,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29608761,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+42668432,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+18216356,mvvm,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+4733037,MVC,,,NONE,NONE,NONE,Databases,Development schedule,NONE,NONE,NONE,NONE,NONE
+1269331,MVC,,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+26693511,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+20759344,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+37507124,inversion-of-control,,,NONE,NONE,NONE,NONE,NONE,Quality standards,modifiability,NONE,NONE,NONE
+31489499,client server,,,NONE,NONE,Small,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+7908531,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+32820011,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+31365431,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+22223847,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+26640775,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+4940424,mvvm,,,NONE,NONE,NONE,Databases,NONE,Quality standards,safety,NONE,NONE,NONE
+3414404,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,testability,NONE,NONE,NONE
+14739276,ddd,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+23622140,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+3469500,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+17146537,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+49781543,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+50554350,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23078580,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+31271551,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+35218920,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+20312187,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+9091410,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+45804419,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+31301665,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+39323769,microservices,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+49194448,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+54037373,interceptor,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+17986543,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+45851508,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+40321349,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+9362365,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+26563444,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+19468717,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+56212065,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+29141047,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+25975995,ddd,,,NONE,NONE,NONE,Operating Systems,NONE,NONE,NONE,NONE,NONE,NONE
+12549071,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+30770147,soa,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+2232047,publish-subscribe,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+10836660,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+40024506,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+14465413,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,maintainability,NONE,NONE,NONE
+34932581,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+5331554,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+43446605,microservices,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+47860639,MVC,,,NONE,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+6145821,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+3270393,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+34060162,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+30830728,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+40966759,microservices,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,safety,NONE,NONE,NONE
+54582519,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,safety,NONE,NONE,NONE
+21033889,REST,,,Mobile Application,NONE,Small,NONE,NONE,NONE,safety,NONE,NONE,NONE
+54438920,SINGLETON,,,NONE,NONE,NONE,Development Systems,NONE,NONE,NONE,NONE,NONE,NONE
+31594949,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,safety,NONE,NONE,NONE
+49037204,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,safety,NONE,NONE,NONE
+40308250,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+46988666,REST,,,Web Application,Entertainment Systems,NONE,NONE,NONE,Quality standards,performance,security,NONE,NONE
+49542045,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+19922420,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33180338,mvvm,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+48193343,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+40796324,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+26580826,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+27745295,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+37198371,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+29963357,SINGLETON,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+26923286,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+52874810,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+13209437,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+1408571,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+48216333,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+56740026,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+16518075,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+52335464,mvvm,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+55524361,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+28655668,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+27347820,microservices,,,Distributed Systems,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+10988963,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+16595442,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+24560610,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+6048026,MVC,,,NONE,NONE,NONE,Development Systems,NONE,Development methodology,modifiability,NONE,NONE,NONE
+45861800,MVC,,,NONE,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+26214501,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+33427711,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,safety,NONE,NONE,NONE
+42385473,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+42929577,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,testability,usability,NONE,scalability
+3523942,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+13006044,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+29567658,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+11250145,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+52241894,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,safety,NONE,NONE,NONE
+29283869,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+21502528,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+37508946,client server,,,NONE,NONE,NONE,Development Systems,NONE,Quality standards,security,NONE,NONE,NONE
+13842163,soap,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+28574297,MVC,,,NONE,NONE,NONE,Development Systems,NONE,NONE,NONE,NONE,NONE,NONE
+41066058,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+48013895,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+46719676,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,safety,NONE,NONE,NONE
+11229371,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+17386132,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,safety,NONE,NONE,NONE
+28228920,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+9767114,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,testability,NONE,NONE,NONE
+41829005,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+15362639,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,safety,NONE,NONE,NONE
+13664634,MVC,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+33353088,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+19600024,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+7192702,soa,,,Web Application,NONE,NONE,Development Systems,NONE,NONE,NONE,NONE,NONE,NONE
+29870304,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+37270485,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+18086048,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,safety,NONE,NONE,NONE
+53108190,ddd,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,availability,modifiability,NONE,NONE
+8527292,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,safety,NONE,NONE,NONE
+27195486,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,maintainability,security,NONE,NONE
+55043543,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+28251404,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+44524621,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,safety,NONE,NONE,NONE
+55915052,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+34056887,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+21705131,mvvm,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+45290198,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+56511634,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17326618,REST,,,NONE,NONE,NONE,Network context,NONE,Testing standards/ Methods,performance,NONE,NONE,NONE
+38965781,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29721098,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+32505885,MVC,,,Mobile Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+31447217,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+30571558,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+17725662,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+32644953,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33033834,microservices,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+43221995,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17778180,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+5381273,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13520378,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+29384686,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+3255867,ddd,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,availability,NONE,NONE
+28915630,REST,,,Web Application,Entertainment Systems,NONE,Network context,Stakeholder context,Quality standards,performance,NONE,NONE,NONE
+26754336,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+34757927,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+22684956,observer pattern,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+43823820,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+17514750,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+55035479,mvvm,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+44851354,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+38327484,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+19937187,n-tier,,,Standalone systems,NONE,NONE,NONE,Development schedule,Quality standards,maintainability,NONE,NONE,NONE
+38735862,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+15755283,MVC,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+8511751,SINGLETON,,,Web Application,NONE,NONE,Hardware context,NONE,NONE,NONE,NONE,NONE,NONE
+17223361,soa,,,NONE,NONE,Small,NONE,NONE,Development methodology,interoperability,NONE,NONE,NONE
+9071677,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+53834455,mvvm,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+16738165,ddd,,,NONE,ERP Systems,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+21034280,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+55293592,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35580521,REST,,,NONE,NONE,NONE,Network context,NONE,Development methodology,security,NONE,NONE,NONE
+20387117,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+25822058,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+13726750,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+25828614,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+1494196,ddd,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,modifiability,NONE,NONE,NONE
+11134080,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+48812700,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+54801765,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+55877821,MVC,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,safety,NONE,NONE,NONE
+43934449,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+42926953,MVC,,,Web Application,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+11638052,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,performance,NONE,NONE
+34198159,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+41723879,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+50452418,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+4072027,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+3119476,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+1806981,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,NONE,modifiability,NONE,NONE
+43306842,microservices,,,NONE,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+25911146,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+22057315,MVC,,,Web Application,NONE,NONE,NONE,NONE,Testing standards/ Methods,NONE,redundancy,NONE,NONE
+32238266,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+16326386,visitor,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+13211021,MVC,,,web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+57025117,ddd,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+46795804,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+13082718,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,NONE,functionality,NONE,NONE
+36362372,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+16838416,soa,,,Web Application,NONE,NONE,Databases,Stakeholder context,Quality standards,availability,NONE,NONE,NONE
+4901945,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+10862839,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+2009189,MVC,,,Web Application,Entertainment Systems,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+44747700,MVC,,,Web Application,NONE,NONE,Hardware context,NONE,Quality standards,NONE,NONE,NONE,NONE
+53867089,microservices,,,NONE,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+30287845,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+57445826,decorator,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+12778176,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+25831659,activerecord,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+44739727,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17749745,soa,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+56413290,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+37380854,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+32001342,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,safety,security,NONE,NONE
+38635194,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+3079948,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+27657400,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+50012943,activerecord,,,NONE,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+32614818,soa,,,Web Application,HR System,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+3870635,SINGLETON,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+32279916,mvvm,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+57410868,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+37258145,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+37854600,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,usability,NONE,NONE,NONE
+22303668,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+53521418,ddd,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+41808270,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+30571604,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+53326117,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+27713618,activerecord,,,Mobile Application,Transport Systems,NONE,Databases,NONE,Development methodology,functionality,NONE,NONE,NONE
+30306107,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+49171571,microservices,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,availability,NONE,NONE,NONE
+35948579,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+20085322,soa,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+1545346,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+19526474,decorator,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+9322880,REST,,,Web Application,NONE,NONE,Development Systems,NONE,Development methodology,security,NONE,NONE,NONE
+8509593,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+12819784,REST,,,Mobile Application,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+3997912,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+33558281,client server,,,NONE,NONE,NONE,NONE,NONE,Quality standards,usability,NONE,NONE,NONE
+29641114,publish-subscribe,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+33133594,activerecord,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+42080017,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+43041563,microservices,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+8189302,inversion-of-control,,,NONE,NONE,NONE,NONE,NONE,Quality standards,availability,NONE,NONE,NONE
+19252836,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+39630449,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+2866449,ddd,,,NONE,NONE,NONE,Databases,nONE,Development methodology,modifiability,NONE,NONE,NONE
+32808231,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+40930432,microservices,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+32891667,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+29261229,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+28578887,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+11789729,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+27612419,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+38454971,MVP,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+54035808,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+19137621,activerecord,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+57420306,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+11006673,client server,,,Mobile Application,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+4608225,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+487857,MVC,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+3851468,REST,,,NONE,NONE,NONE,Hardware context,NONE,Development methodology,security,NONE,NONE,NONE
+30745153,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+3489793,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3171150,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+5358213,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+18435827,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+54179638,microservices,,,NONE,NONE,NONE,Operating Systems,NONE,NONE,NONE,NONE,NONE,NONE
+1812906,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+27311177,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+23274616,REST,,,Web Application,NONE,NONE,Network context,NONE,Development methodology,NONE,NONE,NONE,NONE
+2104963,mvvm,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+54519174,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3525529,MVC,,,NONE,NONE,NONE,Databases,NONE,quality standards,performance,NONE,NONE,NONE
+44524378,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+12132041,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+51454764,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+4977764,mvvm,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+31089298,client server,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+7258956,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+11253532,MVC,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+54316248,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+8621886,ddd,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+45802390,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+792807,client server,,,NONE,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+13408502,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+25475881,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+45656182,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+12256147,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+54874984,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33630602,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+8335703,dao,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+25365404,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+49929136,client server,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+52957524,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+21634861,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29813744,activerecord,,,Web Application,NONE,NONE,NONE,NONE,NONE,safety,security,NONE,NONE
+47789311,activerecord,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,modifiability,NONE,NONE
+51450149,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+15850493,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+2377153,activerecord,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+15968861,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+45487751,mvvm,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+31356214,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+12326753,client server,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+43408599,ddd,,,NONE,NONE,NONE,Databases,NONE,Development methodology,availability,NONE,NONE,NONE
+14861386,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+45482847,microservices,,,NONE,NONE,NONE,Hardware context,NONE,Quality standards,performance,NONE,NONE,NONE
+42325825,client server,,,Web Application,NONE,NONE,NONE,NONE,Testing standards/ Methods,security,NONE,NONE,NONE
+27785397,DTO,,,NONE,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+378420,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,scalability,NONE,NONE,NONE
+54702480,dao,,,Web Application,NONE,NONE,Hardware context,NONE,NONE,performance,NONE,NONE,NONE
+16482146,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,maintainability,mobile application,modifiability,NONE
+30100944,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+30098631,mvvm,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+15138392,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,performance,security,NONE,NONE
+20200480,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+11076608,client server,,,Distributed Systems,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+46098754,microservices,,,Distributed Systems,NONE,NONE,Databases,NONE,Quality standards,availability,in,NONE,NONE
+11433806,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,security,NONE,NONE
+37080391,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+4267109,MVC,observer pattern,,NONE,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+19863961,multi-tier,,,Web Application,NONE,Small,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+19154729,ddd,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+56956168,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,NONE,web application,NONE,NONE
+55688224,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8710973,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+28259885,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+17278303,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+28287420,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+52060934,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,usability,NONE,NONE,NONE
+49484973,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+53947162,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+32209568,REST,,,NONE,NONE,Small,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+2579124,client server,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+16693092,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+15258067,client server,,,NONE,NONE,NONE,Network context,NONE,Development methodology,NONE,NONE,NONE,NONE
+12104209,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+48613339,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8891879,soa,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+2617815,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+25922571,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+56782276,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+34220326,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+16674273,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+24054168,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+22399431,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+40441020,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+5026186,dao,,,NONE,NONE,NONE,Databases,NONE,NONE,Modifiability,NONE,NONE,NONE
+40889912,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+50967664,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+50159354,microservices,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,performance,NONE,NONE,NONE
+39056199,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+22113859,REST,,,NONE,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+54760793,FACTORY METHOD,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+25939230,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+50214352,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29321433,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+16578049,client server,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,maintainability,NONE,NONE
+5276288,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+599000,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+48948874,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+4576874,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+28500107,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,mobile application,NONE,NONE
+16408455,REST,,,web Application,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+56412531,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+14540370,ddd,,,NONE,NONE,NONE,Databases,NONE,Development methodology,usability,NONE,NONE,NONE
+501886,mvvm,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+23308241,multi-tier,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+42046797,microservices,,,NONE,Financial Systems,NONE,Databases,NONE,Development methodology,modifiability,performance,NONE,NONE
+52824915,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+54329634,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23537585,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+7580048,client server,,,Mobile Application,NONE,NONE,Operating Systems,NONE,Quality standards,security,NONE,NONE,NONE
+6505085,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+12723080,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,mobile application,NONE,NONE
+28096530,soa,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,scalability,NONE,NONE,NONE
+7067194,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+14067794,adapter,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+14896223,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+48128853,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35462966,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+24652493,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+6843909,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+29636094,microservices,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+30443573,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+28796947,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13108142,client server,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+11119430,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,maintainability,performance,NONE,NONE
+48285656,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29467353,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+21842136,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+4613914,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+29947123,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+29957203,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+5864527,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+43005954,client server,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+30681058,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+37311465,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+48921774,microservices,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+51584078,microservices,,,NONE,NONE,NONE,Development Systems,NONE,Development methodology,NONE,NONE,NONE,NONE
+29458548,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+16472417,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+3361665,MVC,,,NONE,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+1561643,ddd,,,NONE,NONE,NONE,Databases,Stakeholder context,Quality standards,performance,NONE,NONE,NONE
+4776923,MVC,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+38459276,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+2193694,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+42945143,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+17002809,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+48841945,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+34419439,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,Quality standards,NONE,NONE
+5483042,mvvm,,,Mobile Application,Entertainment Systems,NONE,NONE,NONE,Development methodology,functionality,NONE,NONE,NONE
+20430763,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8447550,ddd,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+13842998,MVC,,,NONE,NONE,NONE,Hardware context,NONE,Quality standards,security,NONE,NONE,NONE
+3662418,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+21832809,SINGLETON,,,Web Application,NONE,Small,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+1669192,soa,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+4236211,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+4969755,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+45408320,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+41031844,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+36267270,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,functionality,NONE,NONE,NONE
+48134800,microservices,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,scalability,availability,NONE,NONE
+56853473,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+23438892,soa,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+56500610,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+25155821,REST,,,Distributed Systems,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+2127771,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+49905527,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+1169610,ddd,,,Distributed Systems,NONE,NONE,Databases,NONE,Quality standards,performance,Development methodology,NONE,NONE
+19912050,client server,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+38135683,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+5428015,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+9007957,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+8896909,client server,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+5337063,inversion-of-control,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+51986166,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+42160716,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+55646845,microservices,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+28955215,soa,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+41376028,SINGLETON,,,Distributed Systems,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+12620006,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+49740664,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35245721,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+53209527,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3865152,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+54166985,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+15244320,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+41917326,REST,,,Mobile Application,NONE,NONE,Network context,NONE,Development methodology,NONE,NONE,NONE,NONE
+12971531,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+15321911,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+56528679,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+34208694,decorator,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+53662999,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,functionality,NONE,NONE
+48158204,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+47345435,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+4010138,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+17823020,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+10995929,ddd,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,functionality,NONE,NONE
+27468668,MVC,,,NONE,NONE,Small,NONE,NONE,NONE,security,NONE,NONE,NONE
+38697382,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+41571052,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+46116802,mvvm,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+29179640,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+35308263,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+824379,client server,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+28271285,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+17896051,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,NONE,NONE,NONE,NONE
+56867065,ddd,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+15147725,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+10414424,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+50575569,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+31336387,client server,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+17883188,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+7982897,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+11726498,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+56024258,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+13863761,soa,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+15787464,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+42827789,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+271825,client server,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+43990603,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+35525356,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+9022854,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+50915794,REST,,,NONE,NONE,NONE,Network context,NONE,Development methodology,NONE,NONE,NONE,NONE
+39060189,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+3490513,MVC,,,Web Application,NONE,NONE,Databases,nONE,NONE,modifiability,NONE,NONE,NONE
+1101069,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+32453796,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,performance,security,NONE,NONE
+35242968,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+44068965,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+34110375,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+28011998,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+41274464,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+17650073,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+13074733,client server,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+7711657,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,maintainability,NONE,NONE,NONE
+4682331,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+52202101,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+25996371,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+9377479,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+34884782,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+3180499,client server,,,NONE,NONE,NONE,Hardware context,NONE,Quality standards,performance,network context,NONE,NONE
+23283309,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+40497862,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+17260820,activerecord,,,Web Application,Financial Systems,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+8068856,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+32459866,mediator,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,maintainability,NONE,NONE,NONE
+47241706,microservices,,,Web Application,NONE,Small,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+12251050,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+28963009,soa,,,Distributed Systems,NONE,NONE,Network context,NONE,Development methodology,security,NONE,NONE,NONE
+51567174,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+6743831,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,security,NONE,NONE
+27749106,mvvm,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+49050109,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+41264957,MVC,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+40932218,REST,,,NONE,NONE,NONE,Network context,NONE,Development methodology,security,NONE,NONE,NONE
+25097244,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+12176120,soa,,,Distributed Systems,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+7522465,dao,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+25578146,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+12675128,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+26993506,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+36256136,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+963851,soa,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+6061571,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+33228178,microservices,,,Web Application,NONE,NONE,Hardware context,NONE,NONE,performance,NONE,NONE,NONE
+7543252,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+53680768,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+960164,MVC,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+42146869,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+4845562,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+32234004,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+29987818,activerecord,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,modifiability,NONE,NONE
+789536,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,testability,NONE,NONE,NONE
+31612059,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+13497208,MVC,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+35932747,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE
+42068224,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+10921253,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+54161997,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+5201821,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+1160132,strategy-pattern,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,modifiability,NONE,NONE
+15055213,client server,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+1219659,multi-tier,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+50357102,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+1531937,DTO,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+54639940,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+41590859,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3697650,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+21529597,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+22166120,SINGLETON,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+56260055,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+19239051,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,complexity,NONE,NONE
+12034684,client server,,,NONE,NONE,NONE,Network context,NONE,Development methodology,security,NONE,NONE,NONE
+31554113,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+767488,DTO,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,interoperability,NONE,NONE
+29855106,MVC,,,Mobile Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+54440749,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+788398,REST,,,Web Application,NONE,Small,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+49669399,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+39372776,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+14815452,REST,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+16745730,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+26907240,client server,,,NONE,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+55932124,microservices,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+46677958,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+7190795,inversion-of-control,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+27636016,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+12632452,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35558701,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+26444127,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+55662469,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+54424613,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+32241022,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+55615744,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+46952559,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+7977238,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35759465,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+39425357,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+41074713,MVC,,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+46662060,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,mobile application,NONE,NONE
+1425749,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,functionality,NONE,NONE,NONE
+12641672,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+53523359,mvvm,,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+6405377,client server,,,Mobile Application,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+33364897,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+27605985,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+13539859,soa,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+15700608,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+13369426,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,mobile application,NONE,NONE
+42824689,client server,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+26126622,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+40924272,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+36855266,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+44530210,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+19089186,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+14666012,MVC,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+23657595,MVC,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+4642911,client server,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+51472410,REST,,,Web Application,nONE,nONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+28011327,decorator,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+44023500,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+26181111,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+35273556,REST,,,Web Application,NONE,NONE,Hardware context,NONE,Quality standards,performance,mobile application,NONE,NONE
+34990385,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+19721282,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+45656769,ddd,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+47465212,microservices,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+11920154,client server,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+16409663,MVP,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+3088538,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,NONE,NONE,NONE,NONE
+53452635,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+51293061,visitor,,,Embedded Systems,NONE,NONE,NONE,NONE,Development methodology,NONE,NONE,NONE,NONE
+24921227,memento,,,NONE,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+5835565,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+24468204,DTO,,,NONE,NONE,NONE,Network context,NONE,Quality standards,NONE,NONE,NONE,NONE
+5548889,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+35717512,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+37629173,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,security,NONE,NONE
+22844785,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+50386213,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3088701,activerecord,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,modifiability,performance,NONE,NONE
+25263720,REST,,,Mobile Application,NONE,NONE,Network context,NONE,Development methodology,modifiability,NONE,NONE,NONE
+10946049,ddd,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+28361556,SINGLETON,FACTORY METHOD,MVC,web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+22674101,REST,,,web Application,NONE,NONE,Databases,NONE,NONE,modifiability,Mobile Application,NONE,NONE
+14218159,REST,,,web Application,NONE,NONE,Databases,NONE,Quality standards,security,modifiability,Network context,NONE
+6873369,publish-subscribe,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,modifiability,NONE,NONE
+33368863,activerecord,,,NONE,NONE,NONE,Databases,NONE,Testing standards/ Methods,performance,availability,NONE,NONE
+51889526,microservices,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+26207531,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+20717000,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,Quality standards,modifiability,NONE,NONE,NONE
+34868801,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,performance,NONE,NONE
+7225027,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+3518446,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+7462715,soa,DTO,,web Application,NONE,NONE,NONE,Stakeholder context,development methodology,security,usability,modifiability,testability
+10559813,REST,MVC,,NONE,financial Systems,NONE,Databases,NONE,Quality standards,modifiability,testability,NONE,NONE
+26324588,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,availability,performance,Network context,NONE
+740574,REST,,,web Application,NONE,NONE,Databases,NONE,NONE,performance,Network context,security,NONE
+48200345,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+43383042,interceptor,,,NONE,NONE,NONE,Databases,NONE,development methodology,performance,Quality standards,NONE,NONE
+30485612,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+27769517,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,performance,Network context,NONE
+10017338,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+30970088,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+25907169,dao,,,NONE,NONE,NONE,Databases,NONE,development methodology,performance,NONE,NONE,NONE
+27602608,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+38652876,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+16082615,activerecord,,,NONE,NONE,NONE,NONE,NONE,development methodology,modifiability,NONE,NONE,NONE
+15764950,ADAPTER,,,Web Application,NONE,NONE,Network context,NONE,testing standards/ Methods,security,NONE,NONE,NONE
+4206928,soa,,,Distributed Systems,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+27705131,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+15333662,client server,,,NONE,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+52841347,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35101884,REST,,,Web Application,NONE,NONE,Network context,NONE,Quality standards,performance,Mobile Application,NONE,NONE
+19721403,REST,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+19284565,REST,INVERSION-OF-CONTROL,,NONE,NONE,Large,Databases,NONE,Testing standards/ Methods,security,NONE,NONE,NONE
+48909280,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+22516611,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+28772038,activerecord,,,NONE,Financial Systems,NONE,Databases,NONE,Quality standards,modifiability,NONE,NONE,NONE
+32011007,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,performance,NONE,NONE
+23427991,client server,,,Standalone Systems,NONE,NONE,Databases,NONE,Quality standards,performance,availability,NONE,NONE
+28325202,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+41825589,ACTIVERECORD,,,NONE,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+24009377,soa,,,Web Application,NONE,NONE,Network context,NONE,NONE,modifiability,Hardware context,NONE,NONE
+16756331,REST,,,Web Application,Financial Systems,NONE,Databases,NONE,NONE,security,Mobile Application,NONE,NONE
+22063495,REST,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+3110817,REST,,,Mobile Application,NONE,NONE,NONE,Stakeholder context,NONE,performance,security,NONE,NONE
+19409646,iterator,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+6657740,REST,DTO,MVC,Web Application,NONE,NONE,Databases,NONE,NONE,modifiability,Mobile Application,NONE,NONE
+38676812,SINGLETON,,,Mobile Application,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+28974038,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+29134464,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,performance,NONE,NONE
+34694108,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+20955873,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+37988965,REST,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,Network context,security,NONE
+51426996,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+1686717,mvvm,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+28192619,INVERSION-OF-CONTROL,,,NONE,NONE,NONE,NONE,NONE,Testing standards/ Methods,modifiability,NONE,NONE,NONE
+55657698,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+50677614,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+56886110,mvvm,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+28731322,MVC,dao,SINGLETON,Standalone Systems,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+13765969,publish-subscribe,,,Distributed Systems,NONE,NONE,NONE,NONE,Quality standards,performance,NONE,NONE,NONE
+9337244,inversion-of-control,MVC,FACTORY METHOD,Web Application,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+8917182,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,Network context,NONE,NONE
+37879987,MVP,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+47043152,MVC,,,NONE,Financial Systems,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+10824405,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+35414129,activerecord,,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+20643506,soa,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+1754711,activerecord,ddd,,NONE,Financial Systems,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+37075779,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+52207733,ddd,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+9714253,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+49709026,REST,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+12074260,client server,,,Standalone Systems,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+7972504,REST,,,Mobile Application,NONE,NONE,Network context,NONE,NONE,security,Web Application,NONE,NONE
+1781071,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+25079177,mvvm,DTO,,NONE,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+36031793,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+49271181,INVERSION-OF-CONTROL,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+4491289,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+4352020,REST,,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+3398298,client server,,,Web Application,NONE,NONE,Development Systems,NONE,Testing standards/ Methods,modifiability,performance,NONE,NONE
+33009431,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+42659902,ddd,REST,SINGLETON,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+23762017,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+43823,soa,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,Development methodology,NONE,NONE
+49741652,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+45050705,client server,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+7525061,client server,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+36026990,inversion-of-control,service-locator,,Web Application,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+16123725,activerecord,,,Mobile Application,Entertainment Systems,NONE,Databases,NONE,Testing standards/ Methods,performance,NONE,NONE,NONE
+27326345,DTO,REST,FACTORY METHOD,Web Application,NONE,NONE,Databases,NONE,Development methodology,performance,NONE,NONE,NONE
+14711496,REST,,,Web Application,NONE,NONE,Network context,NONE,Quality standards,security,performance,NONE,NONE
+41572447,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+7429515,ddd,,,NONE,Financial Systems,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+9121000,dao,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+36261183,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13850186,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+32117278,MVC,REST,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+39358842,microservices,REST,DTO,NONE,NONE,NONE,Databases,NONE,NONE,performance,Network context,NONE,NONE
+35124104,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+2057200,soa,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+32327587,REST,,,NONE,NONE,NONE,Network context,Stakeholder context,Quality standards,security,NONE,NONE,NONE
+5093813,MVC,,,Web Application,NONE,NONE,NONE,NONE,Development methodology,security,NONE,NONE,NONE
+6826677,iterator,,,NONE,NONE,NONE,NONE,NONE,NONE,modifiability,NONE,NONE,NONE
+44474202,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+1206871,MVC,,,NONE,NONE,NONE,Databases,NONE,Development methodology,modifiability,NONE,NONE,NONE
+29761872,microservices,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+27362869,dao,,,NONE,Financial Systems,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+6150797,activerecord,,,NONE,NONE,NONE,NONE,NONE,Quality standards,performance,modifiability,NONE,NONE
+30790749,REST,MVC,,Web Application,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+4686451,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,Mobile Application,NONE,NONE
+54171282,REST,,,Mobile Application,NONE,NONE,NONE,NONE,Quality standards,security,Web Application,NONE,NONE
+55421060,REST,,,Web Application,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+5492683,REST,,,NONE,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+5023666,SINGLETON,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+44344618,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+6608672,activerecord,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+56775282,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+21830144,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+53818619,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+24228790,inversion-of-control,MVP,REST,Web Application,Entertainment Systems,NONE,Network context,NONE,Development methodology,performance,NONE,NONE,NONE
+47205832,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+28930710,microservices,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+7718827,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+8269784,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+1767979,iterator,,,NONE,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+40823303,ddd,FACTORY METHOD,,NONE,NONE,NONE,Hardware context,NONE,NONE,modifiability,Databases,NONE,NONE
+15250785,REST,,,Mobile Application,Entertainment Systems,NONE,Hardware context,NONE,NONE,performance,Web Application,NONE,NONE
+35940503,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+49725953,mvvm,REST,,Web Application,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+9234662,inversion-of-control,,,NONE,NONE,NONE,Databases,NONE,Quality standards,modifiability,NONE,NONE,NONE
+3299868,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+43419276,REST,,,NONE,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+28260975,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+46545093,MVC,,,NONE,NONE,NONE,NONE,NONE,Quality standards,modifiability,NONE,NONE,NONE
+45517907,REST,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+35619571,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+14672735,SINGLETON,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+26955230,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+12315023,client server,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+56782160,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+20870386,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,Network context,NONE,NONE
+52252216,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,performance,NONE,NONE,NONE
+44519094,MVC,,,NONE,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+20046101,client server,,,NONE,NONE,NONE,Network context,NONE,NONE,NONE,NONE,NONE,NONE
+9903960,REST,,,Information Systems,NONE,NONE,Databases,NONE,Quality standards,modifiability,Web Application,NONE,NONE
+27257736,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+56570941,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+56239805,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+51361986,MVC,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,modifiability,NONE,NONE,NONE
+52836611,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+15134039,REST,MVC,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+348360,MVC,,,Web Application,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+30401751,REST,,,Web Application,NONE,NONE,NONE,NONE,Quality standards,security,NONE,NONE,NONE
+3409790,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+47260327,REST,microservices,,NONE,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+18208178,REST,,,NONE,NONE,NONE,Network context,NONE,Quality standards,performance,NONE,NONE,NONE
+39137693,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+6416229,REST,MVC,,Web Application,NONE,NONE,Network context,NONE,Quality standards,security,NONE,NONE,NONE
+43763418,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+46220746,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+34673994,REST,,,Web Application,NONE,NONE,Databases,NONE,Quality standards,security,NONE,NONE,NONE
+27707226,MVC,,,Web Application,NONE,NONE,Databases,NONE,Development methodology,NONE,NONE,NONE,NONE
+49352887,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,security,Network context,NONE,NONE
+1002557,mvvm,lazy-loading,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+10280333,activerecord,,,NONE,Financial Systems,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+32236932,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+14736504,ddd,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+44641324,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+26148414,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+46126972,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+16356175,dao,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+3471484,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+25129929,REST,,,Mobile Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+34398767,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,Mobile Application,NONE,NONE
+14189859,MVC,REST,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+14495936,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+16115087,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,modifiability,NONE,NONE,NONE
+44374786,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+4433106,p2p,,,NONE,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+26178551,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,performance,Security,NONE,NONE
+24646706,mvvm,,,NONE,NONE,NONE,NONE,NONE,NONE,maintainability,Testability,NONE,NONE
+52002754,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,security,Performance,availability,NONE
+40904903,client server,,,NONE,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+56744295,activerecord,,,NONE,NONE,NONE,Databases,NONE,NONE,performance,NONE,NONE,NONE
+11596744,mvvm,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+2687892,REST,,,Web Application,Financial Systems,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+32558542,REST,MVC,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+53356003,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+51675501,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+10859390,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+57588800,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+35639530,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+46663250,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,Security,NONE,NONE,NONE
+408012,MVC,,,NONE,NONE,NONE,Databases,NONE,NONE,Performance,NONE,NONE,NONE
+52701137,microservices,,,NONE,NONE,NONE,Databases,NONE,NONE,Performance,Availability,NONE,NONE
+20771749,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,Security,Web Application,NONE,NONE
+27260624,REST,MVC,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+1923035,mvvm,,,NONE,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+3087270,ddd,MVC,,NONE,NONE,NONE,Databases,NONE,Development methodology,security,NONE,NONE,NONE
+22698467,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+15928505,REST,,,Mobile Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+30759306,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+3519836,multi-tier,lazy-loading,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+2475864,MVC,,,NONE,NONE,NONE,Hardware context,NONE,NONE,modifiability,NONE,NONE,NONE
+1486056,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+12718385,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+33593019,ddd,,,Web Application,NONE,NONE,NONE,NONE,NONE,performance,NONE,NONE,NONE
+8033041,dao,,,Web Application,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE
+5241377,MVC,,,Web Application,NONE,NONE,Databases,NONE,NONE,NONE,NONE,NONE,NONE
+4739061,p2p,,,Distributed Systems,NONE,NONE,Network context,NONE,NONE,reliability,performance,NONE,NONE
+52939594,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+16888975,REST,,,Web Application,NONE,NONE,Databases,NONE,NONE,scalability,Mobile Application,performance,NONE
+9076852,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+44205,p2p,,,NONE,NONE,NONE,Network context,NONE,NONE,availability,NONE,NONE,NONE
+46468664,REST,,,Standalone Systems,NONE,NONE,Databases,NONE,NONE,security,NONE,NONE,NONE
+29719714,REST,,,Mobile Application,NONE,NONE,Network context,NONE,NONE,performance,NONE,NONE,NONE
+36307565,REST,,,Web Application,NONE,NONE,Network context,NONE,NONE,security,NONE,NONE,NONE
+27679128,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,Mobile Application,NONE,NONE
+29481683,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13896650,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+15431137,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+6665328,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+7322882,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+6607879,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+44190937,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+6580068,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+24781983,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+13144386,client server,,,Mobile Application,NONE,NONE,Databases,NONE,Quality standards,performance,Web Application,usability,NONE
+27130669,REST,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
+53134718,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+47266294,no,,,NONE,NONE,NONE,NONE,NONE,NONE,NONE,,,
+18628679,bridge,,,Web Application,NONE,NONE,NONE,NONE,NONE,security,NONE,NONE,NONE
