@@ -128,7 +128,7 @@ def main():
     read_classifier_data = os.path.join(path_dir, 'Classifier_data.csv')
 
     #Load the trained RL model with Collocations
-    RL_model = Word2Vec.load('RL.model')
+    RL_model = Word2Vec.load('RL_Model.model')
 
 
     '''Supervised Learning'''
