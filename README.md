@@ -19,3 +19,8 @@ You can use the already trained RL-Model on DPC Miner to mine for more data usin
 ###### Train both RL_Model and DPC_Miner
 
 
+## Data Files
+
+- More_SO_data.csv -- Contains the posts that need to predict as DPC or not. 
+- Classifier_data.csv -- Contains the posts that are classified and need to train the DPC_Miner.
+
